@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991954454088",
+    "project_id": "educonnect-admin-1bd61",
+    "storage_bucket": "educonnect-admin-1bd61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991954454088:android:caa3d590f82021955e3a7d",
+        "android_client_info": {
+          "package_name": "com.example.educonnectadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Nwho_ewKSqFzQ4gprM-QLxWnBFtdTDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
